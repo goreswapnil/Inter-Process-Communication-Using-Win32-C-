@@ -1,2 +1,2 @@
-# Inter-Process-Communication-Using-Win32-C-
+# Inter-Process-Communication-Using-Win32-CPP
 All Types Of Inter Process Communication Using Win32 C++. E.g -, Using the Clipboard, Using Data Copy, Using a File Mapping, Using Pipes, Using Windows Sockets 
